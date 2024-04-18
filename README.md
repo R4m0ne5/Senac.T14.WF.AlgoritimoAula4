@@ -6,9 +6,9 @@
 
 Abaixo um exemplo de operador lógico
 
-'''csharp
+```csharp
 bool contaPaga = true;
 if(contaPaga){
   Console.WriteLine("Imprimir comprovante");
 }
-'''
+```
